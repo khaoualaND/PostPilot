@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/UserMangementService/pom.xml" />
         <option value="$PROJECT_DIR$/socialMedia-integration-service/pom.xml" />
         <option value="$PROJECT_DIR$/SocialMedia-Integration-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/SchedulingService/pom.xml" />
       </list>
     </option>
   </component>
